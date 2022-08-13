@@ -8,6 +8,9 @@ Key concepts of Algorithms and Data Structures.
 
 ## Geneal
 
+Asynchronous / Multiprocessing / Multithreading / Low-grain Concurrency Programming
+: ...
+
 <!-- ## Tags legend -->
 <!-- - ( _:movie_camera:_ ) - video material -->
 <!-- - ( _short_ ) - short overview -->

@@ -10,6 +10,10 @@ Awesome collection of learning materials to learn Algorithms and Data Structures
 
 __:mortar_board:__
 
+## Concurrency
+
+- __:movie_camera:__ [Asynchronous vs Multithreading and Multiprocessing Programming](https://www.youtube.com/watch?v=0vFgKr5bjWI) by [Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering/videos)
+
 ## Data Structures
 
 - __:movie_camera:__ [B-tree vs B+ tree](https://www.youtube.com/watch?v=UzHl2VzyZS4) by [Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering/videos)
