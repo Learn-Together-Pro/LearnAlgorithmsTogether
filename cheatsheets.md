@@ -3,12 +3,11 @@
 Cheatsheets for Algorithms and Data Structures.
 
 <!-- [:arrow_down: Tags legend](#tags-legend) at the end of the page. -->
-
 <!-- - []() by []() ( _:movie_camera:_ ) -->
 
-<!-- ## Horizontal vs Vertical scaling
+## Asynchronous vs Multithreading
 
-![Horizontal vs Vertical scaling](./cheatsheet/horizontal_vs_vertical.png) -->
+![Asynchronous vs Multithreading](./cheatsheet/concurrent_programming.jpeg)
 
 <!-- ## Tags legend -->
 <!-- - ( _:movie_camera:_ ) - video material -->
